@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546556804584",
+    "project_id": "hatyu-roku",
+    "storage_bucket": "hatyu-roku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546556804584:android:8f10c265ec73a65166785d",
+        "android_client_info": {
+          "package_name": "com.example.hatyu_roku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546556804584-3fgqrheejto441ql9ulciegolbs6l5l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hatyu_roku",
+            "certificate_hash": "50040ae2366c0620a0289d40940b5bb9030e3827"
+          }
+        },
+        {
+          "client_id": "546556804584-pv3qhftj6l7nbgqmn6svjrnn4enutrnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwkEYQH_tLqL3GYEZbTY5XB-_TN_l_aFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546556804584-pv3qhftj6l7nbgqmn6svjrnn4enutrnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
